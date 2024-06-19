@@ -1,0 +1,66 @@
+name: dark_view
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.1.0
+  cloud_firestore: ^5.0.1
+  fluttertoast: ^8.2.6
+  simple_speed_dial: ^0.1.7
+  flutter_wallpaper_manager: ^0.0.4
+  flutter_cache_manager: ^3.3.2
+  share_plus: ^9.0.0
+  cupertino_icons: ^1.0.6
+  http: 
+  path_provider: 
+  permission_handler: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  
+  assets:
+    - assets/images/
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
